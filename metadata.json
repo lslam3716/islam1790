@@ -1,0 +1,6 @@
+{
+  "name": "Amar Site",
+  "description": "একটি আকর্ষণীয় ও পেশাদার লোগো 'AS' সম্বলিত বিনোদন, টাস্ক ট্র্যাকিং এবং ডিপোজিট-উত্তোলন ড্যাশবোর্ড ওয়েবসাইট।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
